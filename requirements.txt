@@ -1,0 +1,12 @@
+audiobox_aesthetics==0.0.4
+numpy==2.4.6
+pandas==2.2.3
+scipy==1.16.3
+scikit-learn==1.6.1
+torch==2.14.1
+matplotlib>=3.9.0
+seaborn>=0.13.2
+statsmodels>=0.14.0
+pyreadr>=0.5.0
+requests>=2.32.0
+jupyter>=1.0.0
