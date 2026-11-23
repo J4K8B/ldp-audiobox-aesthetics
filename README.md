@@ -1,5 +1,7 @@
 # Lucerne Drum Patterns — Meta Audiobox Aesthetics Evaluation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24479972.svg)](https://doi.org/10.5281/zenodo.24479972)
+
 Supplementary code repository for the manuscript:
 
 > **Human vs. AI: Do Meta Audiobox Aesthetic Scores Align with Human Perceived Music Complexity? A Study of Popular Drum Patterns**  
