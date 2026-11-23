@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software or dataset in your research, please cite it using the metadata from this file."
+title: "Human vs. AI: Do Meta Audiobox Aesthetic Scores Align with Human Perception of Music Complexity?"
+type: software
+authors:
+  - family-names: "Juranek"
+    given-names: "Jakub Fryderyk"
+    orcid: "https://orcid.org/0000-0003-2438-5235"
+doi: "10.5281/zenodo.24479972"
+date-released: "2026-11-24"
+version: "1.0.0"
+license: "MIT"
+keywords:
+  - "music complexity"
+  - "rhythmic complexity"
+  - "audiobox aesthetics"
+  - "music perception"
+  - "reproducibility"
+preferred-citation:
+  type: generic
+  authors:
+    - family-names: "Juranek"
+      given-names: "Jakub Fryderyk"
+      orcid: "https://orcid.org/0000-0003-2438-5235"
+  title: "Human vs. AI: Do Meta Audiobox Aesthetic Scores Align with Human Perception of Music Complexity?"
+  doi: "10.5281/zenodo.24479972"
+  year: 2026
